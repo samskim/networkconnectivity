@@ -1,6 +1,7 @@
 # network connectivity
 Kim et al. 2018 biorxiv
 
+
 Source codes used for the analysis:
 
 network_calculate_connectivity.py: calculate network connectivity metrics (e.g. closeness centrality)
@@ -22,6 +23,7 @@ PartitionHeritability_baselineLD_run.sh: run PartitionHeritability_baselineLD.py
 PrepareForMetaAnalysis.py: prepare for the meta-analysis by making .sd file (standard deviation of the annotation) for tau* calculation
 
 MetaAnalysis.r: random-effect meta analysis
+
 
 File formats:
 
