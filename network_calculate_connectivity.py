@@ -34,8 +34,6 @@ def neighbor_graph(GIANT_dataset, core_gene_array = None, core_only = False, per
 			values are a dictionary with peripheral genes (must output as 'dict' if building graph tool graph)
 	'''
 
-	#os.chdir('/n/groups/price/sam/Network_Greene/raw_network') #directory that has networks
-
 	#if no core genes are presented, return the entire graph
 	if core_gene_array == None:
 		print 'No core genes specified; building adjacency list for all genes in the tissue network: ' + str(GIANT_dataset)[:-3]
