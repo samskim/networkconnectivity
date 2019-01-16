@@ -22,7 +22,7 @@ PartitionHeritability_baselineLD_run.sh: run PartitionHeritability_baselineLD.py
 
 PrepareForMetaAnalysis.py: prepare for the meta-analysis by making .sd file (standard deviation of the annotation) for tau* calculation
 
-MetaAnalysis.r: random-effect meta analysis
+MetaAnalysis.R: random-effect meta analysis
 
 
 File formats:
