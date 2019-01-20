@@ -1,0 +1,8 @@
+load("GTEx_PANDA_tissues.RData")
+ls()
+write.csv(exp, file="NormalizedExpression.csv") 
+write.csv(expTS, file="GeneTS.csv")
+write.csv(genes, file="Genes_description.csv")
+write.csv(net, file="EdgeWeight.csv")
+write.csv(netTS, file="EdgeTS.csv")
+write.csv(samples, file="SampleID.csv")
