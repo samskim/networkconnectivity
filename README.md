@@ -1,6 +1,7 @@
 # network connectivity
 Kim et al. 2018 biorxiv
 
+Annotations available at https://data.broadinstitute.org/alkesgroup/LDSCORE/Kim_pathwaynetwork/
 
 Source codes used for the analysis:
 
