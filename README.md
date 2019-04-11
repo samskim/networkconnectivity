@@ -1,5 +1,5 @@
 # network connectivity
-Kim et al. 2018 biorxiv
+Kim S, Dai C, Hormozdiari F, van de Geijn B, Gazal S, Park Y, O’Connor L, Amariuta T, Loh PR, Finucane H, Raychaudhuri S, Price AL. Genes with high network connectivity are enriched for disease heritability. Am J Hum Genet, 2019 in press.
 
 Annotations available at https://data.broadinstitute.org/alkesgroup/LDSCORE/Kim_pathwaynetwork/
 
