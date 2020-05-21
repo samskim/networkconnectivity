@@ -37,3 +37,8 @@ gene networks: gene ID 1, gene ID 2, weight (delimiter = '\t'; we used ENTREZ ID
 .ldscore.gz: CHR, SNP, BP, L2	(delimiter = '\t')
 
 For other details including processing gene networks, please read the manuscript.
+
+
+Update:
+
+We have added 165 reference gene sets analyzed in Kim et al. 2020: 05212020_geneset_list_curated.csv
