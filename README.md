@@ -1,6 +1,8 @@
 # network connectivity
 Kim S, Dai C, Hormozdiari F, van de Geijn B, Gazal S, Park Y, O’Connor L, Amariuta T, Loh PR, Finucane H, Raychaudhuri S, Price AL. Genes with high network connectivity are enriched for disease heritability. Am J Hum Genet. 2019 May 2;104(5):896-913. PMID: 31051114.
 
+Paper link: https://pubmed.ncbi.nlm.nih.gov/31051114/
+
 Annotations available at https://data.broadinstitute.org/alkesgroup/LDSCORE/Kim_pathwaynetwork/
 
 Source codes used for the analysis:
